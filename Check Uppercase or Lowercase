@@ -6,11 +6,11 @@ printf("Enter the alphabet \n ");
 scanf("%c",&ch);
 if(ch>"A"||ch<"Z")
 {
-printf("The entered alphabet is Uppercase \n ")
+printf("The entered alphabet is Uppercase \n ");
 }
 else
 {
-printf(" The entered alphabet is Lowercase \n ")
+printf(" The entered alphabet is Lowercase \n ");
 }
 return 0;
 }
